@@ -1,0 +1,2 @@
+ghc nomearquivo.hs
+./nomearquivo
